@@ -1,0 +1,188 @@
+{
+  "hnyPayments": [
+    {
+      "receiverAddress": "0xb78afc3695870310e7c337afba7925308c1d946f",
+      "amount": "11.32814492"
+    },
+    {
+      "receiverAddress": "0xd7828a5b29e4ed87b4867061985b8ac1146d37fe",
+      "amount": "9.506317429"
+    },
+    {
+      "receiverAddress": "0xfa849619e9d240877f6a47b354934217250f1821",
+      "amount": "7.278176908"
+    },
+    {
+      "receiverAddress": "0xb3522064694ac9870dbf00eebc2712762193bb64",
+      "amount": "4.408251974"
+    },
+    {
+      "receiverAddress": "0x0f11796c594c7bdacf600bbd46f10d2aed2a37b5",
+      "amount": "4.401858843"
+    },
+    {
+      "receiverAddress": "0x0bd1454fa01dd11bf6646bf8bc17a3e48fda3734",
+      "amount": "3.357522063"
+    },
+    {
+      "receiverAddress": "0x7b11dba3c2fbba701d881e0e881d08d9655ab56f",
+      "amount": "2.657286167"
+    },
+    {
+      "receiverAddress": "0x3dfb65035f2648cf5d8ef6ded2694b01509fc408",
+      "amount": "1.563899566"
+    },
+    {
+      "receiverAddress": "0x64423ba257b031284e4456c85d48f9db258249e9",
+      "amount": "1.208516686"
+    },
+    {
+      "receiverAddress": "0x06dca64db7a793bdd2d11f8e6ea3171debb3018a",
+      "amount": "1.021772787"
+    },
+    {
+      "receiverAddress": "0x1232a77b035cdd17cc82041090cb711c37b7d111",
+      "amount": "0.9273800861"
+    },
+    {
+      "receiverAddress": "0x7ba7fbebf45a83812f4e9bfe8feba60f2df258e5",
+      "amount": "0.9164741564"
+    },
+    {
+      "receiverAddress": "0x0dce5512d00e27e9b8b6912de04b995c6a110461",
+      "amount": "0.7400989495"
+    },
+    {
+      "receiverAddress": "0x1dde83382f5e722505e38972181211a5b81ba8d8",
+      "amount": "0.7521330787"
+    },
+    {
+      "receiverAddress": "0xd0d6e0e58fe68bd495b4fd56bff3b19676460272",
+      "amount": "0.5814525936"
+    },
+    {
+      "receiverAddress": "0x7ede3c6fe8e68e420c23ada6eb9ce9fe99f74241",
+      "amount": "0.5097313322"
+    },
+    {
+      "receiverAddress": "0x45fcadefd45dc4242701acc00ff43bfa801a36b0",
+      "amount": "0.4845885979"
+    },
+    {
+      "receiverAddress": "0x686240a24a519e354db73efa143729bff0d0bf2a",
+      "amount": "0.3518908333"
+    },
+    {
+      "receiverAddress": "0x0412f214fa215dda71e1184cad1652884e4b8c57",
+      "amount": "0.4344105767"
+    },
+    {
+      "receiverAddress": "0x3e8a40c40afb10ed216176b9401a183d4c34ec09",
+      "amount": "0.4079247476"
+    },
+    {
+      "receiverAddress": "0x8f4721a7362d460636bdd0a7a1c4311c4300c71f",
+      "amount": "0.04083008142"
+    },
+    {
+      "receiverAddress": "0x1fd7954acca470aaf2725ead2b865fe8f7a7014e",
+      "amount": "0.2897324067"
+    },
+    {
+      "receiverAddress": "0x858bcf5ddf8c2d27da2aa9f8b86f5ca2672cbf50",
+      "amount": "0.04330137582"
+    },
+    {
+      "receiverAddress": "0x0723ff2d0f410319cafb6627e97a55d8ac17077f",
+      "amount": "0.2210734014"
+    },
+    {
+      "receiverAddress": "0x5faf276f6e3e0b10213f8a04bd6c872f8752949b",
+      "amount": "0.1884093362"
+    },
+    {
+      "receiverAddress": "0x8b391c732420c61f01c310808564894b38cd9a41",
+      "amount": "0.09938901397"
+    },
+    {
+      "receiverAddress": "0x315c1772b9d135d464271b995a696b311736515f",
+      "amount": "0.1689613238"
+    },
+    {
+      "receiverAddress": "0x9c7b84be5d69bb41a718a4af921e44730a277f90",
+      "amount": "0.1343094783"
+    },
+    {
+      "receiverAddress": "0x710f08f673365ee3891599f39cbe06dd40cc7fa9",
+      "amount": "0.1343094783"
+    },
+    {
+      "receiverAddress": "0x4171d6f04043d5f9ebe04edd25f7a251d3fd4f23",
+      "amount": "0.0961118627"
+    },
+    {
+      "receiverAddress": "0xc67436d854063564b262e6c26490b2b2bd68506c",
+      "amount": "0.0892889412"
+    },
+    {
+      "receiverAddress": "0xe5d91663f62123731532d481fbe04540a5317c16",
+      "amount": "0.07215105177"
+    },
+    {
+      "receiverAddress": "0xf87518302244d5244fa06a99ea8e0393988e29c9",
+      "amount": "0.07763087848"
+    },
+    {
+      "receiverAddress": "0x07f310e8c075c8344e6b5bfa2ddfa3e0a4c4865e",
+      "amount": "0.01719161323"
+    },
+    {
+      "receiverAddress": "0xe4eb942d434fb05629691841744b3b8cca31bbdb",
+      "amount": "0.07215105177"
+    },
+    {
+      "receiverAddress": "0x6a459167f42a5486126d166c9f5e603c8d95f8c7",
+      "amount": "0.06538185406"
+    },
+    {
+      "receiverAddress": "0xdae0646352836016c23a9434c37960f369503200",
+      "amount": "0.06548930164"
+    },
+    {
+      "receiverAddress": "0xceddf9ee6a6dc59fc29670e178eac9adae4f92e7",
+      "amount": "0.05372379134"
+    },
+    {
+      "receiverAddress": "0xc2d1a751abf1b94a654eea599922b4ed907b7fb6",
+      "amount": "0.04448329923"
+    },
+    {
+      "receiverAddress": "0x28800d83b4cd12bc4af2e60a7056291bff3e6bb6",
+      "amount": "0.03556514986"
+    },
+    {
+      "receiverAddress": "0x049c7f5322d05383c0367c88ecbedd05b4bb7fa9",
+      "amount": "0.03701569223"
+    },
+    {
+      "receiverAddress": "0xf476b5daa18ff98650c99771d807f23a7a5eaf5e",
+      "amount": "0.02874222837"
+    },
+    {
+      "receiverAddress": "0x917c6bcb023802ce23c3a0e1328019dcb8e105fc",
+      "amount": "0.02213420203"
+    },
+    {
+      "receiverAddress": "0x60020f103fe5afe856a84d0c6a785e3f121e98c3",
+      "amount": "0.02148951653"
+    },
+    {
+      "receiverAddress": "0x7b06dae5d20f2985429d3883b9a0aa9687995dc9",
+      "amount": "0.01874960318"
+    },
+    {
+      "receiverAddress": "0xb2f28f45403eadca11654de0deaf4f8604ea9184",
+      "amount": "0.01740650839"
+    }
+  ]
+}
